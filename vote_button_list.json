@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Angular",
+    "votes": 0,
+    "id": 0
+  },
+  {
+    "title": "React",
+    "votes": 3,
+    "id": 1
+  },
+  {
+    "title": "Vue",
+    "votes": 2,
+    "id": 2
+  }
+]
